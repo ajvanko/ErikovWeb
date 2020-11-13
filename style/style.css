@@ -1,8 +1,14 @@
 body{
 }
-.vid1{
-	
-}
+
 .ErikIcon{
 	position: fixed;
+	top: 15px;
+	left: 15px;
+	border: none;
+	outline: none;
+}
+
+.video{
+	border: 10px solid #B7BCCC;
 }
