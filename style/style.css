@@ -4,19 +4,5 @@ body{
 	
 }
 .ErikIcon{
-	margin-left: 20px;
-	top: 840px;
 	position: fixed;
-}
-.credits{
-	font-family: Helvetica;
-	margin-left: 90px;
-	top: 885px;
-	position: fixed;
-	opacity: 25%;
-}
-.body{
-	background-image: photo/bacimgblu.png
-	background-repeat: no-repeat;
-	background-attachment: fixed;
 }
