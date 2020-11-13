@@ -1,10 +1,33 @@
 body{
 }
 
+.title{
+	margin-bottom: 10px;
+}
+
 .ErikIcon{
-	position: fixed;
+	position: static;
 	top: 15px;
-	left: 15px;
+	margin-left: 750px;
 	border: none;
 	outline: none;
+}
+
+.ErikIconTxt{
+	position: fixed;
+	top: 0px;
+	margin-top: 30px;
+	margin-bottom: 8px;
+	margin-left: 30px;
+	outline: none;
+	border: none;
+	cursor: auto;
+}
+.subscribe{
+	margin-top: 60px;
+	position: fixed;
+	margin-left: 92px;
+	border: none;
+	outline: none;
+	width: 110px;
 }
